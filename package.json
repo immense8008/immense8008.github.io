@@ -25,6 +25,6 @@
   "homepage": "https://github.com/immense8008/immense8008.github.io#readme",
   "devDependencies": {},
   "dependencies": {
-    "vuepress": "^0.14.2"
+    "vuepress": "^0.14.11"
   }
 }
